@@ -1,16 +1,22 @@
-# Title
+# SQL Practice
 
-## Learning Goals
+SQL provides a way for us to access
+and store data from a database. While we
+teach it in conjunction with Ruby, it is
+an entirely separate language that can take
+time to become comfortable using and reading.
 
--SWBAT 1
--SWBAT 2
+In this section are additional SQL challenges
+to help you hone your querying skills. Topics
+covered in these challenges include:
 
-## Introduction
+* Querying specific data
+* Aggregating data values
+* Grouping and sorting data
+* Using SQL joins
 
-## SWBAT 1
+In addition, here are some resources you may find
+helpful:
 
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+* [SQL Tutorial](https://blog.hubspot.com/marketing/sql-tutorial-introduction)
+* [An introduction to relational databases and their languages](http://ruby.bastardsbook.com/chapters/sql/)
